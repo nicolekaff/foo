@@ -1,0 +1,85 @@
+html {
+    font-size: 14px;
+    background-color: rgb(241, 221, 191);
+}
+
+body {
+    margin-left: 0rem;
+    margin-right: 0rem;
+    margin-top: 0rem;
+}
+
+img {
+    max-height: 32rem;
+    max-width: 45rem;
+    display: block;
+    margin: auto;
+}
+
+#headerBox {
+    background-color: rgb(58, 56, 69);
+    margin: 0rem 0rem 0rem 0rem;
+    padding: 0.2rem 0.2rem 0.2rem 1.5rem;
+}
+
+h1 {
+    font-family: 'Arvo', serif;
+    color: rgb(241, 221, 191);
+    /* color: rgb(247, 204, 172); */
+}
+
+#belowH1 {
+    font-family: 'Poppins', sans-serif;
+    padding-left: 1.5rem;
+}
+
+p {
+    line-height: 1.8;
+}
+
+fieldset {
+    margin-bottom: 1rem;
+}
+
+legend {
+    font-family: 'Arvo', serif;
+    padding: 0.2rem 0.4rem 0.2rem 0.4rem;
+    font-weight: bold;
+    color: rgb(241, 221, 191);
+    background-color: rgb(58, 56, 69);
+}
+
+form {
+    display: inline;
+}
+
+.fs {
+    display: inline;
+    height: 3.5rem;
+}
+
+.pictureBox {
+    width: 45rem;
+    /* height: 32rem; */
+    display: inline-block;
+}
+
+#pictureLeft {
+    margin-right: 3rem;
+}
+
+.captionBox {
+    width: 45rem;
+    font-size: 1.2rem;
+    text-align: center;
+    display: inline-block;
+}
+
+#captionLeft {
+    margin-right: 3rem;
+}
+
+.button {
+    font-family: 'Poppins', sans-serif;
+}
+
